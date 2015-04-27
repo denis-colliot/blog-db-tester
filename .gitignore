@@ -1,0 +1,16 @@
+# System files.
+*~
+.DS_Store
+
+# Maven files.
+target
+
+# IntelliJ IDE files.
+*.iml
+*.ipr
+*.iws
+*.idea
+
+# Eclispe IDE files.
+*.classpath
+*.project
